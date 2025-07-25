@@ -40,8 +40,10 @@ Clone the repository: git clone https://github.com/Mehedi-Ahmed/ToDo.git
 
 Run the code using Node.js: node todo.js
 
+*Watch this video*
 
-
+https://drive.google.com/file/d/1MJ5Flwi1ReLj3UE9r8tv_tHdZY1ap8ee/view?usp=drive_link
+or Check the gif.
 ----------
 | Author |
 ----------
